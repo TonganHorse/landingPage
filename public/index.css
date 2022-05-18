@@ -26,12 +26,14 @@ img{
 }
 .navbar{
     background-color: #262322;
-    width: 100vw;
     height: 3rem;
     display: flex;
     align-items: center;
     justify-content: center;
     position: fixed;
+    top: 0;
+    width: 100vw;
+
 }
 a{
     color: whitesmoke;
