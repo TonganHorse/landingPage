@@ -19,5 +19,9 @@ img{
     align-items: center;
     justify-content: center;
 }
+.list-item > a{
+    list-style: none;
+    padding-inline: 2rem;
+}
 
 
