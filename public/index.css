@@ -9,7 +9,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url('rubberduck.jpg');
+    background-image: url('');
 }
 img{
     height: 200px;
@@ -33,11 +33,15 @@ img{
     position: fixed;
     top: 0;
     width: 100vw;
-
+    
 }
 a{
     color: whitesmoke;
     font-family: 'Bangers', cursive;
     text-decoration: none;
+    transition: 1s ease-in-out;
+}
+a:hover{
+    font-size: larger;
 }
 
