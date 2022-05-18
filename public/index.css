@@ -36,13 +36,13 @@ img{
     
 }
 a{
-    color: whitesmoke;
+    color: lightgray;
     font-family: 'Bangers', cursive;
     text-decoration: none;
     transition: 1s ease-in-out;
 }
 a:hover{
     font-size: larger;
-    color: gray;
+    color: white;
 }
 
