@@ -14,5 +14,10 @@ img{
     height: 200px;
     width: 200px;
 }
+.list-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
 
