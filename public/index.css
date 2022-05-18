@@ -25,6 +25,10 @@ img{
     padding-inline: 2rem;
 }
 .navbar{
-    background-color: ;
+    background-color: #262322;
+}
+a{
+    color: whitesmoke;
+    font-family: 'Bangers', cursive;
 }
 
