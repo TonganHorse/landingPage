@@ -26,6 +26,8 @@ img{
 }
 .navbar{
     background-color: #262322;
+    width: 100vw;
+    height: 2rem;
 }
 a{
     color: whitesmoke;
