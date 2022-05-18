@@ -61,4 +61,15 @@ a:hover{
     font-size: 2em;
     box-shadow: 2px 2px 2px 2px gray;
 }
+section{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100vw;
+    height: 25rem;
+}
+img{
+    height: 20rem;
+    width: auto;
+}
 
