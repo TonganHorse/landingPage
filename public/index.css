@@ -18,10 +18,9 @@ img{
     display: flex;
     align-items: center;
     justify-content: center;
-}
-.list-item > a{
     list-style: none;
+}
+.list-item{
     padding-inline: 2rem;
 }
-
 
