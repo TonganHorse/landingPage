@@ -9,6 +9,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-image: url('rubberduck.jpg');
 }
 img{
     height: 200px;
@@ -22,5 +23,8 @@ img{
 }
 .list-item{
     padding-inline: 2rem;
+}
+.navbar{
+    background-color: ;
 }
 
