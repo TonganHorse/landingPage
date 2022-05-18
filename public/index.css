@@ -28,6 +28,8 @@ img{
     background-color: #262322;
     width: 100vw;
     height: 2rem;
+    display: flex;
+    align-items: center;
 }
 a{
     color: whitesmoke;
