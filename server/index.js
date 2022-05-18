@@ -12,7 +12,7 @@ app.get("/styles", (req, res) => {
 })
 
 app.get("/js", (req, res) => {
-    res.sendFile(path.join(__dirname, "../public/index.js"))
+    res.sendFile(path.join(__dirname, "../public/main.js"))
 })
 
 port = process.env.PORT || 4005 
