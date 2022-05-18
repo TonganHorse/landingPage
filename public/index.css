@@ -45,4 +45,12 @@ a:hover{
     font-size: larger;
     color: white;
 }
+.grid-container{
+    display: grid;
+    grid-template-columns: auto;
+}
+.grid-item{
+    height: 5rem;
+    width: 5rem;
+}
 
